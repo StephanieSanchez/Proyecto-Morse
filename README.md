@@ -3,9 +3,6 @@
 Nombre: Stephanie Sánchez Bolaños
 Correo de contacto: stephaniesb06@gmail.com
 
-Descripcion del proyecto:
-Programa que traduce, por medio de la consola de Java, un texto al alfabeto morse y viceversa.
-
 Instrucciones:
 1.-Entorno de desarrollo: Eclipse Java-Neon.
 2.-Se ejecutará la consola de Java, que mostrará un texto pidiendo un mensaje a convertir.
